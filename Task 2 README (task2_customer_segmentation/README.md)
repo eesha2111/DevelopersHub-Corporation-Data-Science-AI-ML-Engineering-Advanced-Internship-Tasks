@@ -1,0 +1,25 @@
+# Task 2: Customer Segmentation Using Unsupervised Learning
+
+## Objective
+Cluster customers based on spending habits and propose marketing strategies tailored to each segment.
+
+## Dataset
+Mall Customers Dataset
+
+## Approach
+- Conducted EDA to understand distributions and relationships
+- Standardized numeric features
+- Applied K-Means clustering
+- Selected optimal number of clusters using Elbow + Silhouette score
+- Visualized clusters using PCA (2D)
+- Proposed marketing strategies for each cluster based on their behavioral profile
+
+## Results (fill after running)
+- Selected k:
+- Cluster sizes:
+
+## Marketing Strategies (fill after running)
+Describe each cluster and actions, e.g.:
+- Cluster 0:
+- Cluster 1:
+- ...
