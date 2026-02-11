@@ -1,0 +1,32 @@
+# Task 1: Term Deposit Subscription Prediction (Bank Marketing)
+
+## Objective
+Predict whether a bank customer will subscribe to a term deposit as a result of a marketing campaign.
+
+## Dataset
+Bank Marketing Dataset (UCI Machine Learning Repository)
+
+## Approach
+- Loaded and explored the dataset (missing values, distributions, target balance)
+- Preprocessed data using:
+  - OneHotEncoding for categorical features
+  - Scaling numeric features (for Logistic Regression)
+- Trained:
+  - Logistic Regression (baseline)
+  - Random Forest (nonlinear)
+- Evaluated models using:
+  - Confusion Matrix
+  - F1-score
+  - ROC Curve + ROC-AUC
+- Used SHAP to:
+  - Explain global feature importance
+  - Explain at least 5 individual predictions
+
+## Results (fill after running)
+- Best Model:
+- F1-score:
+- ROC-AUC:
+
+## Key Insights (fill after running)
+- Top factors influencing subscription:
+- Recommended business actions:
