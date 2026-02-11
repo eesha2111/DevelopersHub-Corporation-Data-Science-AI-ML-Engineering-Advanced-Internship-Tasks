@@ -1,0 +1,26 @@
+# Task 3: Interactive Business Dashboard (Streamlit)
+
+## Objective
+Develop an interactive dashboard for analyzing sales, profit, and segment-wise performance.
+
+## Dataset
+Global Superstore Dataset
+
+## Features
+- Sidebar filters:
+  - Region
+  - Category
+  - Sub-Category
+- KPIs:
+  - Total Sales
+  - Total Profit
+  - Top 5 Customers by Sales
+- Charts:
+  - Sales by Category
+  - Profit by Region
+  - Monthly Sales Trend (if Order Date exists)
+
+## How to Run
+1) Install dependencies:
+```bash
+pip install -r requirements.txt
